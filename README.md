@@ -1,6 +1,9 @@
+<<<<<<< HEAD
 # NoYellow
 
-TODO: Write a gem description
+Birds understand the concept of zero, so don't divide by it!
+
+http://www.eurekalert.org/pub_releases/2005-07/bu-agp070805.php
 
 ## Installation
 
