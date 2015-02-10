@@ -20,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Follow the instructions above to add the gem, and you'll learn what Dr. Pepperberg went through.
 
 ## Contributing
 
