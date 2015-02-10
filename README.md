@@ -24,7 +24,7 @@ Follow the instructions above to add the gem, and you'll learn what Dr. Pepperbe
 
 ## Contributing
 
-1. Fork it ( https://github.com/[my-github-username]/no_yellow/fork )
+1. Fork it ( https://github.com/zfoster/no_yellow/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
