@@ -3,5 +3,3 @@ class ZeroDivisionError < StandardError
     "Alex says, 'No yellow!'"
   end
 end
-
-1/0
