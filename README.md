@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # NoYellow
 
 Birds understand the concept of zero, so don't divide by it!
